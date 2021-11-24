@@ -2,7 +2,5 @@
 It's a simple test of word suggestion. Returns 10 suggestions of the given words
 using a pre-trained word vectors with GLOVE (glove.6B.zip from https://nlp.stanford.edu/projects/glove/)
 
-### Uses functions from
-
 ## How to use
 python gloveTest words
